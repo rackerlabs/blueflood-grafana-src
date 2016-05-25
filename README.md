@@ -1,5 +1,5 @@
-# grafana_blueflood_3.0.0
-Blueflood Plugin source code for Grafana. [WIP]
+# grafana_blueflood_3.0.0 [WIP]
+Blueflood Plugin source code for Grafana. 
 
 ## Steps to install
 npm install</br>
